@@ -10,11 +10,11 @@ The system provides functionality for **vehicle owners** to rent out their cars 
 
 ```text
 carsharing-system-design/
-│── README.md # Project overview (this file)
+│── README.md #Project overview (this file)
 │── docs/
-│ ├── SE_assignment_2024.pdf # Final written report
-│ ├── diagrams/ # Exported UML diagrams (JPG)
-│ └── SE_Assignment.vpp # Visual Paradigm project file (source diagrams)
+│ ├── SE_assignment_2024.pdf #Final written report
+│ ├── diagrams/ #Exported UML diagrams (JPG)
+│ └── SE_Assignment.vpp #Visual Paradigm project file (source diagrams)
 ```
 
 ---
@@ -78,3 +78,4 @@ You may use the material for **learning and reference only**.
 |--------------|-------------------------------|
 | it2022134    | Exarchou Athos                |
 | it22149      | Alexandros-Georgios Zarkalis  |
+
