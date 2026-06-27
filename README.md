@@ -1,6 +1,6 @@
 # CarSharing System – Software Engineering Assignment
 
-This repository contains the design and analysis of a **CarSharing platform**, created as part of the course *"Ανάλυση Συστημάτων και Τεχνολογία Λογισμικού"* (Systems Analysis and Software Technology) in June 2024 at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr).
+This repository contains the design and analysis of a **CarSharing platform**, created as part of the course *"Ανάλυση Συστημάτων και Τεχνολογία Λογισμικού"* (Systems Analysis and Software Technology) in June 2024 at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://dit.hua.gr).
 
 The system provides functionality for **vehicle owners** to rent out their cars and for **users** to rent available vehicles securely and efficiently. It includes features such as vehicle registration, reservations, cancellations, live tracking, ratings, and administrative controls.
 
